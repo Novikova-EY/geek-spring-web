@@ -1,0 +1,6 @@
+ru\novikova\geekspringweb\GeekSpringWebApplication.class
+ru\novikova\geekspringweb\persist\ProductRepositoryImpl.class
+ru\novikova\geekspringweb\persist\Product.class
+ru\novikova\geekspringweb\controller\NotFoundException.class
+ru\novikova\geekspringweb\persist\ProductRepository.class
+ru\novikova\geekspringweb\controller\ProductController.class
